@@ -119,7 +119,7 @@ const skills = [
 
   // Styling
   { name: "BOOTSTRAP", icon: "fa-brands fa-bootstrap" },
-  { name: "TAILWIND", imageUrl: "/assets/tailwindcss.svg" },
+  { name: "TAILWIND", imageUrl: "assets/tailwindcss.svg" },
   { name: "MUI", imageUrl: "assets/mui.svg" },
 
   // Animation & Design
