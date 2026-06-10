@@ -476,7 +476,7 @@ nav {
 }
 
 .library {
-    background: url('/assets/projects/my-beloved.jpg');
+    background: url('assets/projects/my-beloved.jpg');
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
@@ -500,7 +500,7 @@ nav {
 }
 
 .talent {
-    background: url('/assets/projects/talent.jpg');
+    background: url('assets/projects/talent.jpg');
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
@@ -510,7 +510,7 @@ nav {
 }
 
 .todoJS {
-    background: url('/assets/projects/todojs.jpg');
+    background: url('assets/projects/todojs.jpg');
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
     background-size: cover;
@@ -520,7 +520,7 @@ nav {
 }
 
 .ballet {
-    background: url('/assets/projects/ballet.jpg');
+    background: url('assets/projects/ballet.jpg');
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
@@ -530,7 +530,7 @@ nav {
 }
 
 .bws {
-    background: url('/assets/projects/bws.jpg');
+    background: url('assets/projects/bws.jpg');
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
@@ -604,7 +604,7 @@ nav {
 }
 
 .selected .library {
-    background: url('/assets/projects/my-beloved.jpg');
+    background: url('assets/projects/my-beloved.jpg');
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
@@ -615,28 +615,28 @@ nav {
 }
 
 .selected .talent {
-    background: url('/assets/projects/talent.jpg');
+    background: url('assets/projects/talent.jpg');
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
 }
 
 .selected .todoJS {
-    background: url('/assets/projects/todojs.jpg');
+    background: url('assets/projects/todojs.jpg');
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
 }
 
 .selected .ballet {
-    background: url('/assets/projects/ballet.jpg');
+    background: url('assets/projects/ballet.jpg');
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
 }
 
 .selected .bws {
-    background: url('/assets/projects/bws.jpg');
+    background: url('assets/projects/bws.jpg');
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;

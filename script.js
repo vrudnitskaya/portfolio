@@ -115,24 +115,24 @@ const skills = [
   { name: "CSS", icon: "fa-brands fa-css3-alt" },
   { name: "JAVASCRIPT", icon: "fa-brands fa-js" },
   { name: "REACT", icon: "fa-brands fa-react" },
-  { name: "NEXT.JS", imageUrl: "/assets/nextdotjs.svg" },
+  { name: "NEXT.JS", imageUrl: "assets/nextdotjs.svg" },
 
   // Styling
   { name: "BOOTSTRAP", icon: "fa-brands fa-bootstrap" },
   { name: "TAILWIND", imageUrl: "/assets/tailwindcss.svg" },
-  { name: "MUI", imageUrl: "/assets/mui.svg" },
+  { name: "MUI", imageUrl: "assets/mui.svg" },
 
   // Animation & Design
-  { name: "GSAP", imageUrl: "/assets/greensock.svg" },
+  { name: "GSAP", imageUrl: "assets/greensock.svg" },
   { name: "FIGMA", icon: "fa-brands fa-figma" },
 
   // Backend
   { name: "NODE.JS", icon: "fa-brands fa-node-js" },
-  { name: "EXPRESS", imageUrl: "/assets/express.svg" },
-  { name: "RUBY ON RAILS", imageUrl: "/assets/rubyonrails.svg" },
+  { name: "EXPRESS", imageUrl: "assets/express.svg" },
+  { name: "RUBY ON RAILS", imageUrl: "assets/rubyonrails.svg" },
   
   // Database
-  { name: "MONGODB", imageUrl: "/assets/mongodb.svg" },
+  { name: "MONGODB", imageUrl: "assets/mongodb.svg" },
 ];
 
 // Generate skills
